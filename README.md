@@ -14,10 +14,11 @@ This analysis provides valuable insights that can help the business optimize inv
 
 ## 📂 Repository Structure
 
--   `ecommerce_analysis.ipynb`: The main Jupyter Notebook containing all the Python code, analysis, visualizations, and detailed explanations.
+-   `Assets`: Visualizations.
 -   `Online Retail.xlsx`: The raw dataset used for the analysis.
--   `requirements.txt`: A list of the necessary Python libraries to run the notebook.
 -   `README.md`: This file provides an overview of the project.
+-   `ecommerce_analysis.ipynb`: The main Jupyter Notebook containing all the Python code, analysis, visualizations, and detailed explanations.
+-   `requirements.txt`: A list of the necessary Python libraries to run the notebook.
 
 ---
 
