@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-This project analyzes an e-commerce dataset of a UK-based online retailer specializing in unique all-occasion gifts. The dataset contains transaction data from December 2010 to December 2011.
+This project analyzes an e-commerce dataset of a UK-based online retailer specializing in unique all-occasion gifts. The dataset contains transaction data from December 2023 to December 2024.
 
 The primary goals of this project are:
 1.  To answer specific business questions related to product returns, sales trends, and order sizes.
