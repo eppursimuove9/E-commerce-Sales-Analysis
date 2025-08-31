@@ -39,7 +39,7 @@ This analysis provides valuable insights that can help the business optimize inv
     ```bash
     jupyter notebook
     ```
-4.  Open the `ecommerce_analysis.ipynb` file on Google Colab and run the cells. **Asegúrate de que el archivo `Online Retail.xlsx` esté en la misma carpeta.**
+4.  Open the `ecommerce_analysis.ipynb` file on Google Colab and run the cells. **Make sure the `Online Retail.xlsx` file is in the same folder.**
 
 
 ![Dashboard Screenshot](Assets/kmeans-clustering.png)
