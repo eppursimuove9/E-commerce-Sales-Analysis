@@ -41,9 +41,9 @@ This analysis provides valuable insights that can help the business optimize inv
 4.  Open the `ecommerce_analysis.ipynb` file on Google Colab and run the cells. **Asegúrate de que el archivo `Online Retail.xlsx` esté en la misma carpeta.**
 
 
-![Dashboard Screenshot](Assets/UK Profit Visualization.png)
-![Dashboard Screenshot](Assets/Scenario-Product Segmentation.png)
-![Dashboard Screenshot](Assets/K-Means Clustering.png)
+![Dashboard Screenshot](Assets/kmeans-clustering.png)
+![Dashboard Screenshot](Assets/product-segmentation.png)
+![Dashboard Screenshot](Assets/uk-profit-visualization.png)
 
 ---
 
