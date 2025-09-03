@@ -90,9 +90,9 @@ The project follows a structured data science workflow to ensure robust and reli
 ## 📈 Key Findings & Business Insights
 
 ### **Business Insights**
-- ** Strong Seasonality:** Sales show a **massive peak in the fourth quarter (Q4)**, confirming the gift-oriented nature of the business and the critical importance of the holiday season for inventory and marketing planning.
-- ** Dual Business Model (B2C & B2B):** International orders are **statistically larger** than domestic ones. This reveals a significant wholesale (B2B) business line that requires a differentiated strategy.
-- ** Operational Anomalies:** The most returned item, "Manual," is not a physical product, pointing to an internal administrative process that could be optimized.
+- Strong Seasonality: Sales show a **massive peak in the fourth quarter (Q4)**, confirming the gift-oriented nature of the business and the critical importance of the holiday season for inventory and marketing planning.
+- Dual Business Model (B2C & B2B):** International orders are **statistically larger** than domestic ones. This reveals a significant wholesale (B2B) business line that requires a differentiated strategy.
+- Operational Anomalies: The most returned item, "Manual," is not a physical product, pointing to an internal administrative process that could be optimized.
 
 ### **Strategic Product Segmentation**
 The K-Means model revealed four clear and actionable product segments:
