@@ -44,9 +44,9 @@ This is the structure of the project repository:
 │   ├── kmeans-clustering.png
 │   ├── product-segmentation.png
 │   └── uk-profit-visualization.png
+├── README.md
 ├── ecommerce-analysis.ipynb
 ├── requirements.txt
-└── README.md
 ```
 
 - **`assets/`**: Contains visual resources, such as screenshots of the generated charts.
