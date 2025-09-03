@@ -64,7 +64,7 @@ This project is configured for a seamless experience directly in Google Colab.
 
 Click the button below to open the notebook directly in your browser. No local installation is required!
 
-**[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eppursimuove9/E-commerce-Sales-Analysis/blob/main/ecommerce-analysis.ipynb)**
+**[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eppursimuove9/E-commerce-Sales-Analysis/blob/main/ecommerce_analysis.ipynb)**
 
 ### **Step 2: Run the Project**
 
