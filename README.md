@@ -82,7 +82,7 @@ The subsequent cells will perform the complete analysis, train the clustering mo
 
 The following diagram illustrates the complete project pipeline, from data ingestion and cleaning to machine learning modeling and the final dashboard generation.
 
-![Project Workflow](./assets/diagram.png)
+![Project Workflow](Assets/diagram.png)
 
 ---
 
