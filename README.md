@@ -1,14 +1,16 @@
 # 📈 E-Commerce Analysis & Customer Segmentation with Machine Learning
 
-![K-Means Clustering Elbow Method](Assets/kmeans-clustering.png)
-![Product Segmentation Visualization](Assets/product-segmentation.png)
-![UK Profit Visualization](Assets/uk-profit-visualization.png)
-
 ## 🚀 Live Interactive Dashboard
 
 Explore the data and key insights through the interactive dashboard built with Plotly.
 
 **[➡️ View Live Dashboard](https://78a5a393-d942-4685-9c26-e318f671f8e9.plotly.app/)**
+
+---
+
+![K-Means Clustering Elbow Method](Assets/kmeans-clustering.png)
+![Product Segmentation Visualization](Assets/product-segmentation.png)
+![UK Profit Visualization](Assets/uk-profit-visualization.png)
 
 ---
 
@@ -73,6 +75,14 @@ Simply run the notebook cells in order. The first cell will handle everything:
 2.  **It will automatically download the `Online-Retail.xlsx` dataset** from Google Drive.
 
 The subsequent cells will perform the complete analysis, train the clustering model, and generate interactive dashboards. Some charts will be displayed directly within the notebook. Additionally, the scripts will generate **7 standalone HTML dashboards**. To view these, you must **download them from the Colab file explorer and open them on your local machine.**
+
+---
+
+## 🗺️ Project Workflow
+
+The following diagram illustrates the complete project pipeline, from data ingestion and cleaning to machine learning modeling and the final dashboard generation.
+
+![Project Workflow](./assets/diagram.png)
 
 ---
 
